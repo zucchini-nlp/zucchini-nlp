@@ -5,5 +5,4 @@
 - 🧠 Strong background in research and machine learning
 - 💻 Actively contributing to open-source projects on GitHub
 - 🌍 Eager to collaborate on innovative projects in the field
-
 - 📫 Reach me at: raushan@huggingface.co
